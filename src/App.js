@@ -31,6 +31,7 @@ function App() {
 
   return (
     <div>
+      <h1>Kolten Pilar</h1>
       {/* if isOpen is true, render component, else empty string */}
       {isOpen ? (
         <div>
